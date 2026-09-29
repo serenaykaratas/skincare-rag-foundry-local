@@ -135,3 +135,9 @@ This project demonstrates:
 ## Disclaimer
 
 This assistant is for educational purposes only. It does not diagnose skin conditions or replace advice from a qualified healthcare professional.
+
+## Demo Videosu
+
+Projenin çalışma mantığını ve öğrendiklerimi anlattığım kısa video:
+
+[Demo Videosunu İzle](https://drive.google.com/file/d/1cudEiCzviWUqvwHjlNxnQBTqgw-f59dQ/view?usp=sharing)
